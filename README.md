@@ -280,7 +280,7 @@ If you have questions or issues:
 
 <div align="center">
 
-**Made with ❤️ by the SigmaGPT Team**
+**Made with ❤️ by the 🤖Shubhankarmaity.tech**
 
 [⭐ Star this repo](https://github.com/Shubhankarmaity/SigmaGPT) if you find it helpful!
 
